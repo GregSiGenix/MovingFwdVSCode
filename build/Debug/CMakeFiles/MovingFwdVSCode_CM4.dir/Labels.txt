@@ -1,0 +1,13 @@
+# Target labels
+ MovingFwdVSCode_CM4
+# Source files and their labels
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update.rule

@@ -1,0 +1,148 @@
+# ninja log v5
+18	63	7629892029484919	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+18	63	7629892029484919	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+63	102	7629892029860451	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+185	512	7629892033940622	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+63	102	7629892029860451	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+102	141	7629892030263259	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+141	180	7629892030663263	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+102	141	7629892030263259	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+141	180	7629892030663263	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+180	490	7629892033734392	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+180	490	7629892033734392	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+490	591	7629892034760657	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+688	762	7629892036473696	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+490	591	7629892034760657	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+512	633	7629892035181590	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+688	762	7629892036473696	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+591	656	7629892035411535	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+591	656	7629892035411535	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+656	737	7629892036223564	CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+656	737	7629892036223564	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+26	70	7629892029554765	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+656	737	7629892036223564	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+146	185	7629892030713530	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+656	737	7629892036223564	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+26	70	7629892029554765	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+70	107	7629892029933432	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+70	107	7629892029933432	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+108	146	7629892030323445	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+20	34	0	clean	5c1d2a0083349566
+108	146	7629892030323445	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+146	185	7629892030713530	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+185	512	7629892033940622	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+512	633	7629892035181590	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+633	687	7629892035701574	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+633	687	7629892035701574	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+688	762	7629892036473696	CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+688	762	7629892036473696	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+23	73	7629892493870199	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+23	73	7629892493870199	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+34	81	7629892493960192	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+34	81	7629892493960192	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+73	117	7629892494310211	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+73	117	7629892494310211	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+81	131	7629892494420286	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+81	131	7629892494420286	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+117	169	7629892494826537	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+117	169	7629892494826537	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+132	178	7629892494916533	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+132	178	7629892494916533	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+169	213	7629892495276528	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+169	213	7629892495276528	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+178	222	7629892495356538	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+178	222	7629892495356538	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+213	509	7629892498202947	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+213	509	7629892498202947	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+222	516	7629892498232976	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+222	516	7629892498232976	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+509	626	7629892499363666	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+509	626	7629892499363666	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+516	645	7629892499548994	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+516	645	7629892499548994	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+626	681	7629892499954108	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+626	681	7629892499954108	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+645	700	7629892500134092	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+645	700	7629892500134092	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+681	777	7629892500893162	CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+681	777	7629892500893162	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+681	777	7629892500893162	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+681	777	7629892500893162	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+700	784	7629892500953154	CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+700	784	7629892500953154	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+700	784	7629892500953154	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+700	784	7629892500953154	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+18	28	0	clean	5c1d2a0083349566
+15	76	7629892752780845	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+15	76	7629892752780845	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+26	82	7629892752835139	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+26	82	7629892752835139	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+77	126	7629892753270349	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+77	126	7629892753270349	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+83	131	7629892753350322	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+83	131	7629892753350322	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+126	177	7629892753788708	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+126	177	7629892753788708	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+131	202	7629892754028806	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+131	202	7629892754028806	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+177	243	7629892754439499	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+177	243	7629892754439499	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+202	265	7629892754681660	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+202	265	7629892754681660	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+243	582	7629892757845754	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+243	582	7629892757845754	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+266	591	7629892757939023	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+266	591	7629892757939023	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+582	685	7629892758825994	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+582	685	7629892758825994	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+591	712	7629892759151312	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+591	712	7629892759151312	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+685	737	7629892759411308	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+685	737	7629892759411308	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+712	762	7629892759595738	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+712	762	7629892759595738	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+737	801	7629892760046903	CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+737	801	7629892760046903	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+737	801	7629892760046903	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+737	801	7629892760046903	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+762	826	7629892760291680	CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+762	826	7629892760291680	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+762	826	7629892760291680	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+762	826	7629892760291680	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+25	37	0	clean	5c1d2a0083349566
+13	64	7629893247827968	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+13	64	7629893247827968	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir	f8e4eedc242236b4
+21	70	7629893247887964	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+21	70	7629893247887964	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir	88d7ca4f9cb78fc6
+64	103	7629893248218188	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+64	103	7629893248218188	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download	bb2007f0328e4b80
+70	109	7629893248278186	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+70	109	7629893248278186	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download	1f86dae442a720a9
+103	145	7629893248643295	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+103	145	7629893248643295	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update	39815f40d79eb0c5
+109	151	7629893248693312	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+109	151	7629893248693312	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update	a4b3d00a8950bf27
+145	188	7629893249043386	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+145	188	7629893249043386	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch	573e91dbaa361e2d
+151	193	7629893249103376	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+151	193	7629893249103376	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch	13dc0101e3011857
+188	547	7629893252624066	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+188	547	7629893252624066	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure	887f20d1704e6abc
+193	566	7629893252824124	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+193	566	7629893252824124	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure	2c8a19c2c1bfaea5
+547	644	7629893253614959	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+547	644	7629893253614959	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build	fa4de91eaee561d4
+644	716	7629893254305375	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+644	716	7629893254305375	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install	ad57bc62f0bad28
+716	806	7629893255215787	CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+716	806	7629893255215787	CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+716	806	7629893255215787	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete	9344c7d0fa4f7cd0
+716	806	7629893255215787	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-done	9344c7d0fa4f7cd0
+566	1401	7629893261188458	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+566	1401	7629893261188458	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build	cd02c68ff5fea65f
+1401	1446	7629893261639723	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+1401	1446	7629893261639723	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install	73f092a180bb44ac
+1446	1502	7629893262205235	CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+1446	1502	7629893262205235	CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0
+1446	1502	7629893262205235	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete	f4d32ca426811dc0
+1446	1502	7629893262205235	C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-done	f4d32ca426811dc0

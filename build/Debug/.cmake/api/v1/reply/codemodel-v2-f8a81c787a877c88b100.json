@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MovingFwdVSCode",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MovingFwdVSCode_CM4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovingFwdVSCode_CM4-Debug-e9362c4499fab4f25d49.json",
+					"name" : "MovingFwdVSCode_CM4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MovingFwdVSCode_CM7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovingFwdVSCode_CM7-Debug-4b9846c1c28110688702.json",
+					"name" : "MovingFwdVSCode_CM7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug",
+		"source" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

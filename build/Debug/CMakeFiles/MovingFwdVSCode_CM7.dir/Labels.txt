@@ -1,0 +1,13 @@
+# Target labels
+ MovingFwdVSCode_CM7
+# Source files and their labels
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch.rule
+C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update.rule

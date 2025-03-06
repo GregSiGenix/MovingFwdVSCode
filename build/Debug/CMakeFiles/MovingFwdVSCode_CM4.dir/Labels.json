@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CMakeFiles/MovingFwdVSCode_CM4-complete.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-build.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-configure.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-download.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-install.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-patch.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/build/Debug/CM4/src/MovingFwdVSCode_CM4-stamp/MovingFwdVSCode_CM4-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MovingFwdVSCode_CM4"
+		],
+		"name" : "MovingFwdVSCode_CM4"
+	}
+}

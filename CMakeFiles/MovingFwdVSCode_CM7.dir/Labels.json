@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CMakeFiles/MovingFwdVSCode_CM7"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CMakeFiles/MovingFwdVSCode_CM7.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CMakeFiles/MovingFwdVSCode_CM7-complete.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch.rule"
+		},
+		{
+			"file" : "C:/Users/gyurk/Desktop/VMini ALL/MovingFwdVSCode/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MovingFwdVSCode_CM7"
+		],
+		"name" : "MovingFwdVSCode_CM7"
+	}
+}

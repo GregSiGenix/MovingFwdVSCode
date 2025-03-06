@@ -1,0 +1,13 @@
+Notes for STM32F417_ST_STM3240G_EVAL:
+=====================================
+1. Jumper settings for ethernet:
+  JP5: 1-2
+  JP6: 2-3
+  JP8: Not fitted
+
+2. Jumper settings for MMC/SD:
+  JP16: 1-2
+  JP22: Not fitted (shared with UART)
+
+3. Jumper settings for UART (by default we are using memory access for embOS View):
+  JP22: 1-2 (shared with MMC/SD)

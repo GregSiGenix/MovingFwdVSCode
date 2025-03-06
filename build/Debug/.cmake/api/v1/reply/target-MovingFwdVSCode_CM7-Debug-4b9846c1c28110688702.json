@@ -1,0 +1,146 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ExternalProject_Add",
+			"include"
+		],
+		"files" : 
+		[
+			"C:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/ExternalProject.cmake",
+			"mx-generated.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 19,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4205,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "ExternalProjectTargets/MovingFwdVSCode_CM7"
+	},
+	"id" : "MovingFwdVSCode_CM7::@6890427a1f51a3e7e1df",
+	"name" : "MovingFwdVSCode_CM7",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/MovingFwdVSCode_CM7",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/MovingFwdVSCode_CM7.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/MovingFwdVSCode_CM7-complete.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-build.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-configure.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-download.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-install.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-mkdir.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-patch.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Debug/CM7/src/MovingFwdVSCode_CM7-stamp/MovingFwdVSCode_CM7-update.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

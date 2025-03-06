@@ -1,0 +1,89 @@
+Licensor:                 SEGGER Microcontroller Systems LLC
+Licensed to:              React Health, Inc., 203 Avenue A NW, Suite 300, Winter Haven FL 33881, USA
+Licensed SEGGER software: emUSB-Host
+License number:           USBH-00304
+License model:            SSL [Single Developer Single Platform Source Code License]
+Licensed product:         -
+Licensed platform:        STM32F4, IAR
+Licensed number of seats: 1
+
+non-transferable, non-exclusive Single Developer software license for the commercial use of SEGGER Embedded Software
+Version 210226
+
+This license ("License") is a legal agreement between you, the undersigned licensee ("You", "Your" or "Licensee"), and, as licensor, SEGGER Microcontroller Systems LLC, a company organized and existing under the laws of the Commonwealth of Massachusetts in the United States ("SEGGER"). Upon full execution and delivery of this License and upon Your payment to SEGGER for the Software to licensed hereunder, You shall become a non-exclusive licensee of the SEGGER software and hereby agree to be bound by the terms of this License.
+
+§ 1 Scope of License; Indemnification, Definitions
+The "Software" covered by this License means the SEGGER software components in source or object code form as specified in the related PO and order confirmation to be used for and with the target CPU, Compiler and IDE as specified in the related PO and order confirmation and includes both the computer software and the electronic documents delivered to You in connection with the Software.
+
+1. Solely with respect to electronic documents included with the Software, You may make an unlimited number of copies (either in hardcopy or electronic form), provided that such copies shall be used only for Your internal purposes and not republished or distributed to any third party without the prior written consent of SEGGER.
+2. The Software is licensed, not sold, to You, and is for use only under the terms of this License. The Software is not open source software. The Software consists of proprietary, closed source software protected under applicable copyright and trade secret laws. All rights, title and interest in the Software are and shall at all times remain with SEGGER.
+3. You will ensure that any use of the Software does not require (i) disclosure or distribution of any source code or (ii) licensing of any source code from SEGGER at no charge. For the avoidance of doubt, You shall not combine the Software with any "viral" open-source software or any software that could cause, or could be interpreted or asserted to cause, the Software or any modified Software to become subject to the terms of the GPL.
+4. You hereby agree to defend, indemnify and hold SEGGER harmless from and against any claim, suit, demand, or other costs arising from Your breach of the terms of this License and subsequent revisions of this License in accordance with its terms.
+5. The following terms shall have the following meaning:
+"Executable Code" means the machine-executable (and non-linkable) version of the Licensed Software;
+"Object Code" means the machine-readable, linkable and compiled version
+"Source Code" means the human-readable version of the Licensed Software that can be compiled into Object Code
+"SSL" means Single Developer Source Code License
+"SOL" means Single Developer Object Code License
+"SEL" means Single Executable License
+"Product" means the end result of a manufacturing process which is offered by Licensee under its own name to the marketplace under a certain product name or number.
+
+§ 2a Grant of License for Source Code licensed under SSL (Single Developer Source Code License) limited to a specific CPU, Compiler and IDE
+1. The Licensee (You) will receive the software in Source Code form from SEGGER
+2. You may use the code to create one or more programs executable on Your embedded target system. Any distribution or shipment of Source Code or code in linkable form (e.g. Object Code) requires the prior written authorization from SEGGER.
+3. An SSL entitles one and only one person working on a project for Your company to work with the software on one and only one personal computer at a time. The software or parts thereof are in "use" on a personal computer when it is loaded into temporary memory (i.e. RAM) or installed into permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that personal computer. You may not install, run or use the software on any server, continuous integration, automatic test or build environments and alike or make the software available on a network or in any way provide the software or parts thereof to multiple users, unless You have first purchased additional licenses.
+4. You are entitled to make copies of the software for backup purposes.
+5. Any other use of the software is prohibited without prior written authorization from SEGGER. Under this license, the package may not be used to create and distribute a relinkable or an equivalent. Under no circumstances may any of the source code be used for creating or developing a similar or competitive software.
+6. You will take all commercially reasonable efforts to prevent and discourage piracy of the Software code, including, without limitation, prohibiting Your employees and consultants from using or copying the Software code for any purpose other than as permitted herein.
+
+§ 2b Grant of License for Object Code licensed under SOL (Single Developer Object Code License) limited to a specific CPU, Compiler and IDE
+1. The Licensee (You) will receive the software in Object Code form from SEGGER.
+2. You may use the code to create one or more programs executable on Your embedded target system. Any distribution or shipment of Source Code or code in linkable form (e.g. Object Code) requires the prior written authorization from SEGGER.
+3. An SOL entitles one and only one person working on a project for Your company to work with the software on one and only one personal computer at a time. The software or parts thereof are in "use" on a personal computer when it is loaded into temporary memory (i.e. RAM) or installed into permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that personal computer. You may not install, run or use the software on any server, continuous integration, automatic test or build environments and alike or make the software available on a network or in any way provide the software or parts thereof to multiple users, unless You have first purchased additional licenses.
+4. You are entitled to make copies of the software for backup purposes.
+5. Any other use of the software is prohibited without prior written authorization from SEGGER. Under this license, the package may not be used to create and distribute a relinkable or an equivalent. Under no circumstances may any of the source code be used for creating or developing a similar or competitive software.
+6. You will take all commercially reasonable efforts to prevent and discourage piracy of the Software code, including, without limitation, prohibiting Your employees and consultants from using or copying the Software code for any purpose other than as permitted herein.
+
+§ 2c Grant of License for Executable Code shipped and delivered by SEGGER to You under SEL (Single Executable License)
+1. PC tools as executable code shipped to You by SEGGER with the licensed source code as defined in section § 2a or object code as defined in section § 2b will be provided by SEGGER as single executable license (SEL).
+2. An SEL entitles one and only one person to use the Software, and on one and only one computer at a time. An SEL entitles one and only one person working on a project for Your company to work with the software on one and only one personal computer at a time. The software or parts thereof are in "use" on a personal computer when it is loaded into temporary memory (i.e. RAM) or installed into permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that personal computer. You may not install, run or use the software on any server, continuous integration, automatic test or build environments and alike or make the software available on a network or in any way provide the software or parts thereof to multiple users, unless You have first purchased additional licenses.
+3. You are entitled to make copies of the computer software part of the Software solely for backup purposes and for no other purpose.
+4. For clarification purposes: You shall not distribute or make available the PC tools to any third party, consultant or customer.
+5. Any other use of the software is prohibited without prior written authorization from SEGGER.
+
+§ 2d  Distribution rights for executable code generated by You from source code (§ 2a) or object code (§ 2b)
+1. The resulting software as executable code may be shipped to Your customers together with Your product or hereafter as part of a firmware update.
+2. For clarification purposes.: If You have licensed the source code as defined in section § 2a or object code as defined in section (§ 2b) only for the target CPU as specified in the related PO and order confirmation an executable generated by You designed to run on a PC or server is outside the scope of this license agreement and requires to purchase an additional license from SEGGER.
+3. The foregoing limitation does not apply to emCompress-ToGo executable code compiled by You for a PC or server to be used for and with Your Product.
+4. Any other use of the executable code generated by You from source code as defined in section § 2a or object code as defined in section § 2b is prohibited without prior written authorization from SEGGER.
+§ 3 Other Restrictions
+1. The Software is not transferable to any third party, and any use of the Software by a third party requires the prior written consent of SEGGER in each instance and You shall not sell, lease or otherwise transfer the Software or any interest therein to any third party. The foregoing and anything else in this License to the contrary notwithstanding, the incorporation of the Software into the Product to the extent permitted by this License shall not be deemed to be a prohibited transfer.
+2. You shall not reverse engineer, decompile or disassemble the Software shipped in object or executable form.
+3. You shall not use or port the software on another target CPU, Compiler or IDE.
+4. The License is non-transferable and not assignable.
+5. You agree during the time that You are actively using licensed Software and for a period of twelve (12) months thereafter, You shall not to develop a software similar or competitive to the Software, nor participate in the development of such software, either directly or indirectly, with any third party.
+6. You shall not use nor permit the use of the Software licensed hereunder in any tool, instrument or system designed with the primary purpose of injuring or killing any person or destroying or damaging property.
+
+§ 4 Termination
+1. Without prejudice to any other rights, SEGGER may terminate Your rights under this License if You fail to comply with the terms and conditions of this License and any other agreement You may have with SEGGER related to this License. In such event, upon written notice from SEGGER, You shall, at the election of SEGGER, return or destroy all copies of the Software and all of its component parts and shall provide written certification of such destruction or return to SEGGER.
+
+§ 5 Limited Warranties
+1. SEGGER warrants that, for twenty-four (24) months beginning with the date of the initial shipment of the Software to You (the "Warranty Period"), the Software shall operate substantially in accordance with the published functional specifications in effect at the time of shipment. If, during the Warranty Period the Software is found to be defective, SEGGER will use its reasonable efforts to correct the deviation within a reasonable time after notification from You. The entire liability of SEGGER, and its suppliers and Your exclusive remedy shall be, at the option of SEGGER, either to return the price paid to SEGGER or to replace the Software (a maximum of 3 replacements). The warranty set forth in this section 5.1 is the only warranty made by SEGGER and SEGGER expressly disclaims all other warranties whether express or implied including, without limitation, warranties of merchantability and fitness for a particular purpose.
+2. In developing the Software SEGGER attempted to offer the most current, correct and clearly expressed information possible. Nonetheless, errors may occur and SEGGER does not warrant that the Software is free from bugs, errors, or other program limitations.
+3. If, during the Warranty Period, a defect appears in the Software, You shall notify SEGGER. To correct the deviation You must give detailed information about the error and the target application.
+4. SEGGER makes no representation and provides no warranty or guarantee that the Software will be suited to Your particular needs or use.
+5. Except to the extent prohibited by applicable law, in no event shall SEGGER nor any of its distributors or affiliates be liable to You for any direct, indirect, punitive, special, incidental or consequential damages, including lost profits, business interruption and like damages, even if advised of the possibility of such losses or damages. The total monetary liability of SEGGER shall be limited to the amount actually paid by You for the Software License.
+
+§ 6 Miscellaneous
+1. Applicable Law; Not For Resale or Export. You agree to comply with all applicable laws and regulations of the Commonwealth of Massachusetts in the United States. You agree and represent that You are buying for Your own internal use only, and not for resale or export. This License shall be governed by the laws of the Commonwealth of Massachusetts in the United States. Any action SEGGER brings against You for the enforcement of this License may be brought in the Commonwealth of Massachusetts in the United States or any other jurisdiction in which the courts have jurisdiction over You. You hereby consent to the personal jurisdiction of the courts located within the Commonwealth of Massachusetts in the United States and waive any right to assert that such courts are not a convenient forum.
+2. You hereby acknowledge that SEGGER's damages at law would not be adequate in the case of a breach of this License by You. Therefore SEGGER shall have the right of specific performance, injunction or other equitable remedy in the event of such breach, without the necessity of posting any bond.
+3. SEGGER's rights and remedies hereunder shall be construed to be cumulative, and no one of them exclusive of any other or of any right or remedies allowed by law.
+4. In addition to any other relief awarded, the prevailing party in any legal action shall be entitled to recover its reasonable legal fees and costs.
+5. SEGGER has the right to have an independent third party review and inspect Your use of the Software at any place at which such Software is used, at reasonable times to ensure compliance with the terms of this License.
+6. You agree to provide SEGGER with any and all additional documents as may be reasonably requested by SEGGER and/or necessary to effectuate the purposes and intent of this License.
+7. No waiver by either party of any breach of any term or provisions of this License shall be construed as a waiver of any preceding or succeeding breach of the same or of any other term or provision.
+8. No modifications or amendments of any terms hereof shall be effective unless in writing and signed by SEGGER and You.
+9. If any provision or part of this License is determined to be invalid or illegal by any court or agency of competent jurisdiction, then that provision or part shall be limited or curtailed to the extent (but only to the extent) necessary to make such provision valid, and all other remaining terms and provisions of this License shall remain in full force and effect.
+10. Any notices hereunder will be sent charges prepaid to the other party to its respective addresses set forth herein (or to such other address that may be designated by such party) a reputable delivery service, a part of whose services shall include obtaining a signature from the addressee. The foregoing notwithstanding, the parties may provide routine notices to each other designed solely to carry out their obligations to one another via email and/or other methods mutually agreed. This License may be executed in identical counterparts and such Licenses shall be deemed one and the same License.
+11. You represent and warrant to SEGGER that (a) You have all requisite power and authority to execute and deliver this License, to perform Your obligations hereunder and to engage in the transactions contemplated hereby, (b) the execution, delivery and performance of this License has been duly authorized by all requisite action on Your part and this License constitutes the legal, valid and binding obligation of You, enforceable in accordance with its terms and (c) the execution, delivery and performance of this Agreement by You does not (i) violate any judgment, order, injunction, decree or award of any court or governmental body binding on You, (ii) violate any law or regulation that is applicable to You, or (iii) violate or conflict with, or constitute a default under, the terms of any agreement to which You are a party.
+12. This License shall be binding upon and shall inure to the benefit of each party and to its respective successors, legal representatives and permitted assignees. This License represents the entire License of the parties with respect to the subject matter hereof and shall be enforceable in accordance with its terms.
