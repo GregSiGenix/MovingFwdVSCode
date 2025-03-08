@@ -23,7 +23,7 @@
 
 /* Private includes -----------    -----------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "usbh.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -50,11 +50,25 @@
 UART_HandleTypeDef huart3;
 
 /* Definitions for defaultTask */
+/* Definitions for defaultTask */
 osThreadId_t defaultTaskHandle;
 const osThreadAttr_t defaultTask_attributes = {
   .name = "defaultTask",
   .stack_size = 1024 * 4,
-  .priority = (osPriority_t) osPriorityNormal,
+  .priority = (osPriority_t)osPriorityNormal,
+};
+/* USER CODE BEGIN PV */
+osThreadId_t USBHTaskHandle;
+const osThreadAttr_t USBHTask_attributes = {
+  .name = "USBHTask",
+  .stack_size = 8192 / sizeof(int),
+  .priority = (osPriority_t)osPriorityNormal,
+};
+osThreadId_t USBHIsrTaskHandle;
+const osThreadAttr_t USBHIsrTask_attributes = {
+  .name = "USBHIsrTask",
+  .stack_size = 8192 / sizeof(int),
+  .priority = (osPriority_t)osPriorityNormal,
 };
 /* USER CODE BEGIN PV */
 
@@ -338,10 +352,13 @@ static void MX_GPIO_Init(void)
 void StartDefaultTask(void *argument)
 {
   /* init code for USB_HOST */
-  MX_USB_HOST_Init();
+  // TODO: this is for ST USB HostMX_USB_HOST_Init();
   /* USER CODE BEGIN 5 */
-  /* Infinite loop */
-  for(;;)
+  USBH_Init();
+  USBHTaskHandle = osThreadNew((osThreadFunc_t)USBH_Task, NULL, &USBHTask_attributes);
+  USBHIsrTaskHandle = osThreadNew((osThreadFunc_t)USBH_ISRTask, NULL, &USBHIsrTask_attributes);
+
+  for (;;)
   {
     osDelay(1);
   }

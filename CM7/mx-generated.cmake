@@ -14,6 +14,7 @@ target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
     ./Core/Inc
     ./USB_HOST/App
     ./USB_HOST/Target
+    ./emUSB
     ../Drivers/STM32H7xx_HAL_Driver/Inc
     ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy
     ../Middlewares/Third_Party/FreeRTOS/Source/include
@@ -68,15 +69,17 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c
     ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
     ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc_bot.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc_scsi.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c
-    ../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc_bot.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src/usbh_msc_scsi.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c
+    #../Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c
     ./Core/Src/sysmem.c
     ./Core/Src/syscalls.c
+    ./emUSB/USBH_Core.c
+    ./emUSB/USBH_OS_freeRTOS.c
     ./Core/Startup/startup_stm32h745xx_CM7.s
 )
 
